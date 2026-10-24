@@ -26,7 +26,7 @@
 * [Referencias](#referencias)
 * [Otros](#otros)
 
-###### Los [detalles del proyecto](/docs/detalles.md) también se encuentra en [Otros](#otros)
+<small> Los [detalles del proyecto](/docs/detalles.md) también se encuentra en [Otros](#otros)</small>
 
 ## Medio Ambiente
 Según las **Naciones Unidas** el medio ambiente es el **conjunto de componentes físicos, químicos, biológicos y sociales con capacidad de causar efectos sobre los seres vivos y las actividades humanas.**

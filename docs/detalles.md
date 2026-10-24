@@ -17,6 +17,7 @@ actividad-markdown-IAW
 ├── docs/
 |     └── detalles.md (fichero secundario)
 └── assets/
+      └── captura-repositorio.jpg
       └── ods.png
       └── sostenibilidad.png
 ```
@@ -37,3 +38,4 @@ El documento markdown.md trata sobre un tema con sentido global e incluye los si
 Sube todo el proyecto a un repositorio público de `GitHub`. En la tarea de la plataforma entrega únicamente el enlace directo al repositorio (público) y una captura de pantalla donde se vea el documento visualizado en `GitHub`.
 
 ![Captura del Repositorio](../assets/captura-repositorio.jpg)
+<small>En la captura sale el repositorio privado pero al entregarlo ya será público.</small>
