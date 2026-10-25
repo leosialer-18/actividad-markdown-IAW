@@ -3,7 +3,7 @@
 ```#Información
 Asignatura: Implementación de Aplicaciones Web
 Nombre: Leonardo Sialer Gonzales
-Fecha: 23 - 10 - 2026
+Fecha: 25 - 10 - 2026
 ```
 ## 1. Objetivo del ejercicio
 Aprender a estructurar documentación técnica utilizando sintaxis `Markdown`, comprender la diferencia entre rutas relativas (imágenes locales) y enlaces externos, y publicar el resultado en un repositorio
@@ -19,7 +19,7 @@ actividad-markdown-IAW
 └── assets/
       └── captura-repositorio.jpg
       └── ods.png
-      └── sostenibilidad.png
+      └── sostenibilidad.jpg
 ```
 
 ## 3. Requisitos de contenido (markdown.md)

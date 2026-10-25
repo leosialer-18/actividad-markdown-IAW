@@ -36,7 +36,7 @@ Desde el punto de vista científico, el medio es el entorno en el que se desarro
 |Sistemas|Abiertos|Cerrados|Aislados|
 |--|--------|--------|--------|
 |Intercambio de Materia|Si|No|No|
-|Intercambio de Enegía|Si|Si|No|
+|Intercambio de Energía|Si|Si|No|
 |Relación con el entorno|Dependencia absoluta del exterior. Si se interrumpe el flujo de entrada o salida, el sistema se desestabiliza y colapsa|Es autosuficiente a nivel material, pero su temperatura y estado interno varían según las condiciones energéticas del exterior|En la realidad no existen fronteras perfectas, por lo que los sistemas aislados reales solo mantienen esta condición por tiempo limitado|
 |Ejemplos|Un ser vivo (absorbe oxígeno/alimentos, exhala CO₂ y disipa calor) o un ecosistema (bosque, océano)|Un reloj de cuerda (no cambia su masa, pero recibe y disipa energía cinética/térmica) o el planeta Tierra (intercambio térmico con el Sol, masa casi constante)|Un termo sellado (mantiene la temperatura y el líquido dentro por unas horas)|
 
@@ -47,7 +47,7 @@ Para conseguirla, es necesario utilizar los recursos de manera responsable, evit
 
 ### Desarrollo sostenible
 
-El desarrollo sostenible busca satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas. Esta definición fue establecida en 1987 por el `Informe Brundtland` de las Naciones Unidas.
+El **desarrollo sostenible** busca satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras para satisfacer las suyas. Esta definición fue establecida en `1987` por el _Informe Brundtland_ de las **Naciones Unidas**.
 
 Se basa en tres dimensiones fundamentales:
 - _**Ambiental:**_ proteger los ecosistemas y conservar los recursos naturales.
@@ -64,9 +64,11 @@ La huella ecológica es un **indicador que mide el impacto de una población sob
 Se expresa como la superficie de territorio necesaria para producir los recursos utilizados y absorber los residuos generados por una población.
 
 Para calcularla se consideran aspectos como:
+
 - El consumo de materiales y energía.
 - La producción y absorción de residuos.
 - El espacio ocupado por viviendas, infraestructuras y otras actividades humanas.
+
 Este indicador permite comparar el impacto ambiental de diferentes poblaciones y conocer si su consumo de recursos es sostenible.
 
 ### Gestión ambiental
@@ -85,9 +87,11 @@ Una buena gestión ambiental permite reducir costes de materias primas, agua y e
 ## Objetivos de Desarrollo Sostenible (ODS)
 Los **Objetivos de Desarrollo Sostenible** forman parte de la `Agenda 2030` de las Naciones Unidas, aprobada en 2015. Su finalidad es **combatir la pobreza, reducir las desigualdades y proteger el planeta**.
 
+> Vengan con compromisos concretos, no con discursos adornados. (António Guterres, secretario general de la ONU)
+
 ![Objetivos de Desarrollo Sostenible](assets/ods.png)
 
-La Agenda 2030 establece 17 objetivos y 169 metas que deben abordarse de manera conjunta, teniendo en cuenta sus relaciones entre sí.
+La `Agenda 2030` establece **17 objetivos y 169 metas** que deben abordarse de _manera conjunta_, teniendo en cuenta sus relaciones entre sí.
 
 Los **17 ODS** son:
 1. Fin de la pobreza.
@@ -137,19 +141,30 @@ A diferencia de la economía lineal, que sigue el modelo de extraer, producir, c
 
 ### Diferencias principales entre la economía lineal y circular
 
-||Economía Lineal|Economía Circular|
+|Aspecto|Economía Lineal|Economía Circular|
 | --- | --- |---|
 |Enfoque de recursos|Extracción continua sin preocupación|Maximizar la eficiencia: `Reutilizar, reciclar y regenerar`|
 |Ciclo de vida del producto|Corto y terminan en residuos|Extendido, con múltiples usos, reparaciones y reciclajes|
 |Gestión de residuos|Genera en gran cantidad y termina en vertederos o incinerados|Intenta reintroducirlos en el ciclo productivo, minimizando la cantidad de desechos|
 |Impacto ambiental|Aumentan la presión ambiental por la explotación continua|Reduce la presión ambiental al optimizar los recursos|
 
+<br>
+
+```#Frase en código multilínea
+La Madre Naturaleza no tira cosas. 
+Los árboles muertos, pájaros, escarabajos y elefantes 
+son reciclados rápidamente por el sistema.
+
+— William Booth
+```
+
+
 ## Referencias
 - [Web de la Organización de las Naciones Unidas](https://www.un.org/es)
 
 - [Desarrollo sostenible y acción climática (ONU)](https://www.un.org/es/our-work/support-sustainable-development-and-climate-action)
 
-- [Agenda y Obejtivos de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/development-agenda/)
+- [Agenda y Objetivos de Desarrollo Sostenible](https://www.un.org/sustainabledevelopment/es/development-agenda/)
 
 - [Economía Circular](https://www.esade.edu/beyond/es/que-es-economia-circular/)
 
@@ -159,4 +174,4 @@ A diferencia de la economía lineal, que sigue el modelo de extraer, producir, c
 
 Consultar los [detalles del proyecto](docs/detalles.md).
 
-![I.E.S. Clara del Rey - Imagen enlazada desde Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/3840px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
+![I.E.S. Clara del Rey - Imagen enlazada desde Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
